@@ -1,1 +1,8 @@
 How to install Erwin Data Modeler version14.02 on Windows:
+1. Download the Erwin Data Modeler version 14.02 installer from the official website or a trusted source.
+2. Once the download is complete, locate the installer file (usually in the Downloads folder)
+
+
+3. Double-click the installer file to start the installation process.
+4. Follow the on-screen instructions to proceed with the installation. You may be prompted to accept the license agreement, choose the installation location, and select any additional components or features you want to install.
+5. After making your selections, click the "Install" button to begin the installation.          
