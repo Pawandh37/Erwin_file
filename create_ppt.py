@@ -81,7 +81,7 @@ def add_two_column_slide(prs, title, left_title, left_points, right_title, right
     title_box = slide.shapes.add_textbox(Inches(0.5), Inches(0.3), Inches(9), Inches(0.8))
     title_frame = title_box.text_frame
     title_frame.text = title
-    title_frame.paragraphs[0].font.size = Pt(44)
+    title_frame.paragraphs[0].font.size = Pt(40)
     title_frame.paragraphs[0].font.bold = True
     title_frame.paragraphs[0].font.color.rgb = RGBColor(25, 25, 112)
     
